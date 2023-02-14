@@ -1,0 +1,3 @@
+//Declare Variable only
+
+var myName;
